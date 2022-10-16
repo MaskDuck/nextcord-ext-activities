@@ -1,0 +1,6 @@
+.vscode
+*.egg_info/*
+
+dist/*
+dist
+nextcord_ext_activities.egg_info
